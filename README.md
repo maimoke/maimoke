@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Maimoke. You can call me ไม้โมกคนหล่อเท่
+### Hi there 👋 My name is Maimoke. You can call me ไม้โมกคนหล่อเท่หี
 
 <!--
 **maimoke/maimoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
